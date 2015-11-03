@@ -43,7 +43,7 @@ int convertBase(int num, int curBase, int targetBase) {
 	return total;
 }
 
-int main() {
+int main2() {
 	cout << "converting 10011011 form base 2 to base 10" << endl;
 	cout << convertBase(10011011, 2, 10) << endl;
 
