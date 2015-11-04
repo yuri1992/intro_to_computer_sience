@@ -1,5 +1,4 @@
 /*
-/*
  * Author : Yuri Ritvin
  */
 #include <iostream>
