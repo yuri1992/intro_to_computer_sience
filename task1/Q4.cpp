@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main(char EOF) {
 	/*
 	 * Question Number 4 page 26 : Polindrom Checker
 	 * get num, check if it polindrom number

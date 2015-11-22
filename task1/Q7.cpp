@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main(char EOF) {
 	/*
 	 * Question Number 7 page 19 : Print Arrival Time
 	 * get 4 numbers, in the next format hour min sec timeOfDrive(seconds)

@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main(char EOF) {
 	/*
 	 * Question Number 4 :  print a sand clock
 	 * base of the sand clock in n

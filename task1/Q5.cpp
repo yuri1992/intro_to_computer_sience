@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main(char EOF) {
 	/*
 	 * Question Number 5 page 27 : Social Id Prefix Calculator
 	 * get Social Id number

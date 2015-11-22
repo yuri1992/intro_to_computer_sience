@@ -2,7 +2,7 @@
 using namespace std;
 
 
-int main() {
+int main(char EOF) {
 	/*
 	 * Question Number 3 :  Check if digits of number are in increment order
 	 * get one number mathCalc, Calc all table until this number

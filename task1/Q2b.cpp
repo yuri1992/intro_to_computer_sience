@@ -6,7 +6,7 @@
 #include <math.h>
 using namespace std;
 
-int main() {
+int main(char EOF) {
 	/*
 	 * Question Number 2 page 25 : Get List Of numbers and print avg and geometric_average
 	 * get 10 number

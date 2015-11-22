@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main(char EOF) {
 	/*
 	 * Question Number 1 section 1 page 23-24 : Printing *
 	 * get number and print * in nice output

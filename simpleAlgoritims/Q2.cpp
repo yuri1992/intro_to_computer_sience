@@ -2,7 +2,7 @@
 using namespace std;
 
 
-int main() {
+int main(char EOF) {
 	/*
 	 * Question Number 2 :  Simple Liner Function Solver
 	 * Get two numbers, a and b, ax + b = 0
