@@ -6,9 +6,9 @@ using namespace std;
 
 int main() {
 	/*
-	 * Question Number 7 page 29 : Number to Rome Digits
-	 * get a number (x > 0)  and convert it to Rome Chars
-
+	 * Question Number 7 page 29 : Get and Base10 Number Convert it To Rome Chars
+	 * Args:
+	 * 	num - Base 10 number to be converted to rome chars
 	 */
 	// num -  get num into num
 	// newNum - number after reverse
@@ -21,15 +21,27 @@ int main() {
 
 	while (num > 0) {
 		int tempNum = 0;
+		// take each digit an multiple it by his place etc (123 = 3*1 ,2*10 1*100)
 		tempNum = num % 10 * digitMult;
-		c_word = "";
-		while (tempNum > 0) {
 
+		// Initial the String to empty
+		c_word = "";
+
+		/*
+		 * Algorithm-
+		 *	Taking Each Digit From the original number and trying to convert it to Rome chars
+		 *	by this logic-
+		 *	I Trying to check which one from the chars is the best convert,
+		 *	by checking if Digit minus - Rome Char Value bigger then 0
+		 *	if True -> take this char and minus the value of the char form the number.
+		 *	if False -> continue to next possible Char
+		 */
+		while (tempNum > 0) {
 			char chPrint;
 			int chValue=0;
 
 			if (tempNum - 1000 >= 0) {
-				chPrint = 'm';
+				chPrint = 'M';
 				chValue = 1000;
 			} else if (tempNum - 500 >= 0 ) {
 				chPrint = 'D';
@@ -53,7 +65,9 @@ int main() {
 			tempNum = tempNum - chValue;
 			c_word += chPrint;
 		}
+		// Adding the new Rome Chars To the complete value.
 		word = c_word + word;
+		// preparing Vars For Next Iteration
 		num = num / 10;
 		digitMult = digitMult * 10;
 	}
