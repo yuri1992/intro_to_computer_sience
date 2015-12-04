@@ -1,0 +1,4 @@
+2.the program will print 20^20 time the char "*",
+  because it will call to function asterisks each iteration,
+  it will make 20 iteration, each call to asterisks function will print 20 "*" chars,
+  that why it will print 20^20

@@ -1,0 +1,3 @@
+1.the Program Will print 20 time the chars "*",
+  each iteration will add 0.1 to the summary var,
+  0.1 * 20 = 2.00, that why it will print 20 times.

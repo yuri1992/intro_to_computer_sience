@@ -1,24 +1,38 @@
 #include <iostream>
-using namespace std;
-/*
- * digit Challenge ->
- * print all digit that the second digit bigger then third digit and the can be divied by 2
- */
 
-int main(char EOF) {
-	int firstDigit = 0;
-	while(firstDigit <= 5) {
-		int secondDigit = firstDigit;
-		while (secondDigit <= 9) {
-			int thirdDigit = 0;
-			while (thirdDigit <= 9) {
-				cout << (firstDigit * 100 + secondDigit * 10 + thirdDigit) << endl;
-				thirdDigit += 2;
-			}
-			secondDigit++;
-		}
-		firstDigit++;
- 	}
+using namespace std;
+
+int strLen(char string1[]) {
+    int i=0;
+    for (i=0; string1[i]; i++);
+    return i;
+}
+
+bool strFind(char string1[],char string2[]) {
+    int i,y,index=0;
+    int string2length = strLen(string2);
+
+    for (i=0;string1[i];i++) {
+        if (string1[i] == string2[index]) {
+            cout << string1[i] << " == " << string2[index] << endl;
+            index++;
+        } else {
+            index=0;
+        }
+
+        if (string2length == index)
+            return true;
+    }
+    return false;
+}
+
+int main() {
+
+    char string1[] = "Yuri Is the Man";
+    char string2[] = "Is";
+    cout << strLen(string1) << endl;
+    cout << strLen(string2)<< endl;
+    cout << strFind(string1,string2);
 }
 
 
