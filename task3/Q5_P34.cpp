@@ -71,7 +71,7 @@ int validate(int num, int indices) {
      *  num and indices must to be positive
      *  num and indices must have at must 9 chars
      */
-    if (num < 0 or indices < 0)
+    if (num < 0 or indices <= 0)
         return NEGTIVE_NUMBER_INPUT;
     else if (countDigit(num) > 8 or countDigit(indices) > 8)
         return TOO_MUCH_CHARS;
@@ -94,7 +94,7 @@ int main() {
     else {
         int n = buildNumber(num, indices);
         if (n == -1) // Validation Input
-            cout << "Error!! The indices not much to number" << endl;
+            cout << "Error!! The indices not match to number" << endl;
         else
             cout << "your New Number " << n << endl;
 

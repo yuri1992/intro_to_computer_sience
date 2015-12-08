@@ -46,9 +46,9 @@ int main() {
         if (dividerSum == i)
             prefectNum++;
 
-        if (dividerSum < num and sumDividers(dividerSum) == i) {
+        if (dividerSum != i and dividerSum <= num and sumDividers(dividerSum) == i) {
             friendlyCuples++;
-            //cout << "(" << i << " , " << dividerSum << ")" <<endl;
+            cout << "(" << i << " , " << dividerSum << ")" <<endl;
         }
     }
     cout << "Number Of Prefect Numbers " << prefectNum << endl;

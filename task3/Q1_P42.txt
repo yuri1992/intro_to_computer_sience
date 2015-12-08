@@ -1,0 +1,22 @@
+1.
+    a.yes, The code will pass compilation successfully.
+    b.no, array should no be called with negative index, the array must pointer must not be modified by a-1.
+    c.
+     1 2 3 4 - print the declared array.
+     1 2 3 17 - a[3] been changed
+     1 2 3 17 - noting happend when you declared new var
+     1 2 3 17 101 - next "position" in memory was 101 because it declered in a[4]
+     98 1 2 3 17 101 - a[-1] position is 98 int var, a[4] is 101
+
+
+2.
+    a.yes, code will pass compilation successfully.
+    b.the code looking good, however its declaring an negative position in array, its bad behaviour.
+    c.
+     1 2 3 0 - a[0][4] it null and will print 0
+     4 5 6 0 - a[0][4] it null and will print 0
+     7 8 98 0 - a[0][4] it null and will print 0
+     1 2 3 0 4 5 6 0 7 8 98 0 - its will print all array together
+     1 2 3 0 - the starting pointer is pass +one place
+     4 5 6 88 - the starting pointer is pass +one place
+     7 8 98 0 - the starting pointer is pass +one place

@@ -66,9 +66,9 @@ int countDigitOccur(int num, int digits) {
 
 int main() {
     int digits, num;
-    cout << "Enter Number Param" << endl;
+    cout << "Enter Number" << endl;
     cin >> num;
-    cout << "Enter Digits Param" << endl;
+    cout << "Enter Digits" << endl;
     cin >> digits;
 
     int error = inputValidation(num, digits);

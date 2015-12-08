@@ -31,12 +31,13 @@ int main() {
      * Args:
          * 	num - Integer
      */
-    int num = 41353;
-
+    int num;
+    cout << "Enter Number" << endl;
+    cin >> num;
     if (digitEqual(num))
-        cout << "Digit are Equal ";
+        cout << "False";
     else
-        cout << "digits are not Equal";
+        cout << "True";
 
     return 0;
 }

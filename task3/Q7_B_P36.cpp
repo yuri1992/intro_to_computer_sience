@@ -37,6 +37,9 @@ int main() {
     int num;
     cout << "Enter Number" << endl;
     cin >> num;
-    cout << "The number " << num << " Is prefect " << isPerefectNum(num) << endl;
+    if (isPerefectNum(num))
+        cout << "The number " << num << " Is prefect " << endl;
+    else
+        cout << "The number " << num << " NOT Is prefect " << endl;
     return 0;
 }
