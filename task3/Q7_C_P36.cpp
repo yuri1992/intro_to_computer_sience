@@ -39,14 +39,15 @@ int main() {
     cin >> num;
 
     int prefectNum = 0, friendlyCuples = 0;
-    int dividerSum;
+    int dividerSum,partnerSum;
     for (int i = 2;i < num; i++) {
         dividerSum = sumDividers(i);
 
         if (dividerSum == i)
             prefectNum++;
 
-        if (dividerSum != i and dividerSum <= num and sumDividers(dividerSum) == i) {
+        partnerSum = sumDividers(dividerSum);
+        if (dividerSum > i and dividerSum <= num and partnerSum == i) {
             friendlyCuples++;
             cout << "(" << i << " , " << dividerSum << ")" <<endl;
         }
