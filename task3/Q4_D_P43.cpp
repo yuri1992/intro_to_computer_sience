@@ -4,7 +4,7 @@
 #include <iostream>
 
 using namespace std;
-
+const int ARRAY_SIZE = 100;
 
 void printArr(int arr[], int arrSize) {
     for (int i = 0; i < arrSize; i++) {
@@ -45,7 +45,7 @@ void removeOdd(int A[], int &sizeA) {
      * sorting all even number at begin of array
      * setting new size to sizeA
      */
-    int odd;
+    int odd = 0;
     for (int i = 0; i < sizeA - 1; i++) {
         if (A[i] % 2 == 1) {
             for (int y = i + 1; y < sizeA; y++) {
@@ -64,9 +64,9 @@ void removeOdd(int A[], int &sizeA) {
 
 int main() {
     int arrSize;
+    int arr[ARRAY_SIZE];
     cout << "Please Enter the Array Size" << endl;
     cin >> arrSize;
-    int arr[arrSize];
 
     // Get an ARR_SIZE array
     getArr(arr, arrSize);

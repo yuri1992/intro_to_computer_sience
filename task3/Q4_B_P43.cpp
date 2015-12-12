@@ -5,8 +5,7 @@
 
 using namespace std;
 
-
-
+const int ARRAY_SIZE = 100;
 int getPositiveCount(int arr[],int const arrSize) {
     int sum = 0;
     for (int i = 0; i < arrSize; i++) {
@@ -36,9 +35,9 @@ void getArr(int arr[], int const arrSize) {
 
 int main() {
     int arrSize;
+    int arr[ARRAY_SIZE];
     cout << "Please Enter the Array Size" << endl;
     cin >> arrSize;
-    int arr[arrSize];
     // Get an ARR_SIZE array
     getArr(arr,arrSize);
     // printing all equal places

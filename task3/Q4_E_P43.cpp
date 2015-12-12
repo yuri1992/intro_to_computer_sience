@@ -5,7 +5,7 @@
 
 using namespace std;
 
-
+const int ARRAY_SIZE = 100;
 void printArr(int arr[], int arrSize) {
     for (int i = 0; i < arrSize; i++) {
         cout << " " << arr[i];
@@ -63,9 +63,9 @@ void splitParity(int A[], int size) {
 
 int main() {
     int arrSize;
+    int arr[ARRAY_SIZE];
     cout << "Please Enter the Array Size" << endl;
     cin >> arrSize;
-    int arr[arrSize];
 
     // Get an ARR_SIZE array
     getArr(arr, arrSize);

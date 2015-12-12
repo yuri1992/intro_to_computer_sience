@@ -4,7 +4,7 @@
 #include <iostream>
 
 using namespace std;
-
+const int ARRAY_SIZE = 100;
 
 void printArr(int arr[], int arrSize) {
     for (int i = 0; i < arrSize; i++) {
@@ -38,17 +38,18 @@ void copyOdd(int A[], int sizeA, int B[], int &sizeB) {
 
 int main() {
     int arrSize;
+    int arr[ARRAY_SIZE];
     cout << "Please Enter the Array Size" << endl;
     cin >> arrSize;
-    int arr[arrSize];
 
     // Get an ARR_SIZE array
     getArr(arr, arrSize);
 
     int arrSizeB = arrSize;
     int arrOdd[arrSizeB];
+    cout << arrSizeB << endl;
     copyOdd(arr, arrSize, arrOdd, arrSizeB);
-
+    cout << arrSizeB << endl;
     cout << "Array" << endl;
     printArr(arr, arrSize);
 
