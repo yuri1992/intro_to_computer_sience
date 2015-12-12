@@ -38,7 +38,7 @@ void copyOdd(int A[], int sizeA, int B[], int &sizeB) {
 
 int main() {
     int arrSize;
-    int arr[ARRAY_SIZE];
+    int arr[ARRAY_SIZE],arrOdd[ARRAY_SIZE];
     cout << "Please Enter the Array Size" << endl;
     cin >> arrSize;
 
@@ -46,7 +46,6 @@ int main() {
     getArr(arr, arrSize);
 
     int arrSizeB = arrSize;
-    int arrOdd[arrSizeB];
     cout << arrSizeB << endl;
     copyOdd(arr, arrSize, arrOdd, arrSizeB);
     cout << arrSizeB << endl;
