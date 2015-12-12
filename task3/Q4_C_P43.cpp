@@ -46,9 +46,9 @@ int main() {
     getArr(arr, arrSize);
 
     int arrSizeB = arrSize;
-    cout << arrSizeB << endl;
+
     copyOdd(arr, arrSize, arrOdd, arrSizeB);
-    cout << arrSizeB << endl;
+
     cout << "Array" << endl;
     printArr(arr, arrSize);
 
