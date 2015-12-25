@@ -1,0 +1,54 @@
+
+
+
+   a) a. yes, it will pass compilation
+      b. no, there no logic error in it
+      c. &y - 1004
+         ptr - 1048
+         arr - 1008
+  
+   b) a. yes, it will pass compilation
+      b. no, there no logic error in it
+      c. ptr1 - 1000
+         y - 10
+         &y - 1004
+  
+   c) a. yes, it will pass compilation
+      b. yes, it will trigger an error, when you try to assign int value to pointer
+      c. no output - error!
+  
+   d) a. yes, it will pass compilation
+      b. no, there no logic error in it
+      c. 20
+  
+   e) a. No, it will blow up, you can assign  ptr = &y, you cannot assign a memory address to int
+      b. yes, it will not pass compilation
+      c. no
+  
+   f) a.yes
+      b.yes, its not clear that ptr1 = arr + 2, mean to get the 3 element in array and no for math
+      c.9
+  
+   g) a.yes
+      b.no
+      c.5
+        9
+  
+   h) a. No, you cant assign an pointer to fixed size array
+      b. Yes
+      c. No output, error
+  
+   i) a.yes
+      b.no
+      c. 912
+         18
+         6
+  
+   j) a. yes
+      b. no
+      c. 9
+         10
+  
+   k) a. No, you cant ptr1 + 2 = &x, because it invalid statement
+      b.
+      c.

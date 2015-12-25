@@ -12,17 +12,22 @@
     </ADDITIONAL_GENERATION_ENVIRONMENT>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3d9597e-eb0f-4c6e-acfd-931cf3f40738" name="Default" comment="Task 3 - Const Array Size">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project1/project1.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project1/test.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/yuri.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/yuri.xml" />
+    <list default="true" id="a3d9597e-eb0f-4c6e-acfd-931cf3f40738" name="Default" comment="Task 3 - Const Array Size 2">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task4/Q10_P47.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task4/Q11_P47.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task4/Q1_P49.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task4/Q3_A_P51.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task4/Q3_B_P51.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task4/Q4_P51.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task4/Q5_P51.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task4/Q7_A_P45.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task4/Q7_B_P45.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task4/Q8_P46.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task4/Q8_P53.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task4/Q9_P47.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.cpp" afterPath="$PROJECT_DIR$/main.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/task3/Q4_A_P43.cpp" afterPath="$PROJECT_DIR$/task3/Q4_A_P43.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/task3/Q4_B_P43.cpp" afterPath="$PROJECT_DIR$/task3/Q4_B_P43.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/task3/Q4_C_P43.cpp" afterPath="$PROJECT_DIR$/task3/Q4_C_P43.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/task3/Q4_D_P43.cpp" afterPath="$PROJECT_DIR$/task3/Q4_D_P43.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/task3/Q4_E_P43.cpp" afterPath="$PROJECT_DIR$/task3/Q4_E_P43.cpp" />
     </list>
     <ignored path="intro_to_computer_sience.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,106 +48,68 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Q7_A_P45.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/task4/Q7_A_P45.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.2857143">
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+              <folding>
+                <element signature="e#478#557#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q7_B_P45.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/task4/Q7_B_P45.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Q6_P44.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/task3/Q6_P44.cpp">
+      <file leaf-file-name="Q8_P53.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/task4/Q8_P53.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.717608">
+              <caret line="73" column="1" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q4_P51.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/task4/Q4_P51.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Q4_D_P43.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/task3/Q4_D_P43.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="61" column="12" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="project1.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/project1/project1.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45847178">
-              <caret line="219" column="22" selection-start-line="219" selection-start-column="22" selection-end-line="219" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Q4_C_P33.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/task3/Q4_C_P33.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="50" column="25" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Q7_B_P36.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/task3/Q7_B_P36.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="3" />
               <folding>
-                <element signature="e#68#87#0" expanded="true" />
+                <element signature="e#89#108#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Q7_A_P36.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/task3/Q7_A_P36.cpp">
+      <file leaf-file-name="Q5_P51.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/task4/Q5_P51.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="35" selection-end-column="22" />
+              <caret line="73" column="1" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
               <folding>
-                <element signature="e#68#87#0" expanded="true" />
+                <element signature="e#94#113#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Q5_A_P44.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/task3/Q5_A_P44.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Q5_C_P44.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/task3/Q5_C_P44.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="62" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Q5_P34.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/task3/Q5_P34.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -155,14 +122,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/task2/Q2P21.cpp" />
         <option value="$PROJECT_DIR$/classTraining/oddSotring.cpp" />
         <option value="$PROJECT_DIR$/task3/Q4_P33_A.cpp" />
         <option value="$PROJECT_DIR$/classTraining/midExamPracties.cpp" />
         <option value="$PROJECT_DIR$/task3/Q4_P33_B.cpp" />
         <option value="$PROJECT_DIR$/task3/a.cpp" />
         <option value="$PROJECT_DIR$/task3/Q4_P33_C.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/task3/Q6_P35.cpp.cpp" />
         <option value="$PROJECT_DIR$/task3/Q6_P35.txt" />
         <option value="$PROJECT_DIR$/task3/Q6_P35_B.txt" />
@@ -173,7 +138,6 @@
         <option value="$PROJECT_DIR$/task3/Q2_P43.cpp" />
         <option value="$PROJECT_DIR$/task3/Q5_P44.cpp" />
         <option value="$PROJECT_DIR$/task3/Q5_B_P44.cpp" />
-        <option value="$PROJECT_DIR$/task3/Q5_A_P44.cpp" />
         <option value="$PROJECT_DIR$/task3/Q5_C_P44.cpp" />
         <option value="$PROJECT_DIR$/task3/Q6_P44.cpp" />
         <option value="$PROJECT_DIR$/task3/Q4_B_P33.cpp" />
@@ -184,12 +148,31 @@
         <option value="$PROJECT_DIR$/task3/Q7_C_P36.cpp" />
         <option value="$PROJECT_DIR$/project1/test.cpp" />
         <option value="$PROJECT_DIR$/project1/project1.cpp" />
-        <option value="$PROJECT_DIR$/main.cpp" />
         <option value="$PROJECT_DIR$/task3/Q4_A_P43.cpp" />
-        <option value="$PROJECT_DIR$/task3/Q4_C_P43.cpp" />
         <option value="$PROJECT_DIR$/task3/Q4_B_P43.cpp" />
         <option value="$PROJECT_DIR$/task3/Q4_E_P43.cpp" />
         <option value="$PROJECT_DIR$/task3/Q4_D_P43.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/task3/Q4_C_P43.cpp" />
+        <option value="$PROJECT_DIR$/task4/Q7_P45.cpp" />
+        <option value="$PROJECT_DIR$/task3/Q5_A_P44.cpp" />
+        <option value="$PROJECT_DIR$/task4/Q10P47.cpp" />
+        <option value="$PROJECT_DIR$/task4/Q3_P51.cpp" />
+        <option value="$PROJECT_DIR$/task4/Q4_P52.cpp" />
+        <option value="$PROJECT_DIR$/task4/Q8_53.cpp" />
+        <option value="$PROJECT_DIR$/task4/Q8_P46.cpp" />
+        <option value="$PROJECT_DIR$/task4/Q9_P47.cpp" />
+        <option value="$PROJECT_DIR$/task4/Q7_A_P45.cpp" />
+        <option value="$PROJECT_DIR$/task4/Q7_B_P45.cpp" />
+        <option value="$PROJECT_DIR$/task4/Q10_P47.cpp" />
+        <option value="$PROJECT_DIR$/task4/Q11_P47.cpp" />
+        <option value="$PROJECT_DIR$/task4/Q1_P49.cpp" />
+        <option value="$PROJECT_DIR$/task4/Q3_A_P51.cpp" />
+        <option value="$PROJECT_DIR$/task4/Q3_B_P51.cpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/task4/Q4_P51.cpp" />
+        <option value="$PROJECT_DIR$/task4/Q5_P51.cpp" />
+        <option value="$PROJECT_DIR$/task4/Q8_P53.cpp" />
       </list>
     </option>
   </component>
@@ -200,9 +183,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
-    <option name="y" value="24" />
+    <option name="y" value="-4" />
     <option name="width" value="1301" />
-    <option name="height" value="744" />
+    <option name="height" value="772" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -257,7 +240,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="task3" />
+              <option name="myItemId" value="task4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -372,7 +355,25 @@
       <option name="project" value="LOCAL" />
       <updated>1449646148261</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Task 3 - Const Array Size">
+      <created>1449912731526</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1449912731527</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Task 3 - Const Array Size 2">
+      <created>1449913748487</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1449913748487</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Task 3 - Const Array Size 3&#10;">
+      <created>1449923179801</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1449923179801</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
@@ -385,20 +386,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.309375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19453125" sideWeight="0.819222" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.490625" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3220859" sideWeight="0.46015626" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3190184" sideWeight="0.46015626" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32668713" sideWeight="0.475" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.398773" sideWeight="0.5125" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4969325" sideWeight="0.49375" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34662578" sideWeight="0.471875" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23312883" sideWeight="0.471875" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.49375" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.398773" sideWeight="0.4875" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19453125" sideWeight="0.18077803" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.4875" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -424,7 +425,9 @@
     <MESSAGE value="Task 3 Fixing and refator" />
     <MESSAGE value="Task 3 - Q7 Logic FIx" />
     <MESSAGE value="Task 3 - Const Array Size" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 3 - Const Array Size" />
+    <MESSAGE value="Task 3 - Const Array Size 2" />
+    <MESSAGE value="Task 3 - Const Array Size 3&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 3 - Const Array Size 3&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -444,99 +447,20 @@
           <line>40</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="17" />
+      <option name="time" value="71" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="arrayLines" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/task2/Q3_P26.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="34" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classTraining/oddSotring.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/include/x86_64-linux-gnu/c++/4.8/bits/c++config.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="184" column="0" selection-start-line="184" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task2/Q1_P24_c.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task2/Q1_P24_b.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/include/c++/4.8/iostream">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="59" column="19" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/include/x86_64-linux-gnu/c++/4.8/bits/c++config.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="184" column="0" selection-start-line="184" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/include/c++/4.8/istream">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.04368932">
-          <caret line="566" column="6" selection-start-line="566" selection-start-column="6" selection-end-line="566" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task2/Q1_P24_b.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classTraining/oddSotring.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6012759">
-          <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/task2/Q4_P22.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.46153846">
@@ -635,27 +559,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task3/Q5_B_P44.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="74" column="4" selection-start-line="0" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task3/Q4_A_P33.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/task3/Q6_P35_A.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -670,10 +573,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task3/Q4_B_P33.cpp">
+    <entry file="file://$PROJECT_DIR$/task3/Q6_P44.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="5" selection-end-column="20" />
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -685,91 +588,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task3/Q2_P43.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task3/Q3_P43.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task3/Q7_C_P36.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
-          <folding>
-            <element signature="e#68#87#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project1/test.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task3/Q4_A_P43.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="27" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task3/Q4_C_P43.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task3/Q4_B_P43.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="27" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/task3/Q4_E_P43.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/task3/Q4_C_P33.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="50" column="25" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task3/Q5_A_P44.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task3/Q5_C_P44.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="62" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.1728">
+          <caret line="6" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -777,25 +613,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task3/Q6_P44.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task3/Q7_A_P36.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="35" selection-end-column="22" />
-          <folding>
-            <element signature="e#68#87#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -803,32 +620,221 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-          <folding>
-            <element signature="e#68#87#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
+    <entry file="file://$PROJECT_DIR$/task3/Q7_C_P36.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task3/Q2_P43.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task3/Q3_P43.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.8216867">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task3/Q7_A_P36.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.043373495">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="35" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task3/Q5_B_P44.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task3/Q4_B_P33.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task3/Q4_A_P33.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task3/Q4_A_P43.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task3/Q4_B_P43.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="36" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/task3/Q4_D_P43.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="61" column="12" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="12" />
-          <folding />
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task3/Q4_C_P43.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task3/Q5_A_P44.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.74418604">
+          <caret line="65" column="13" selection-start-line="50" selection-start-column="4" selection-end-line="65" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project1/test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project1/project1.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45847178">
+        <state vertical-scroll-proportion="0.0">
           <caret line="219" column="22" selection-start-line="219" selection-start-column="22" selection-end-line="219" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task3/Q5_C_P44.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38536584">
+          <caret line="54" column="42" selection-start-line="54" selection-start-column="42" selection-end-line="54" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task4/Q8_P46.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task4/Q7_A_P45.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.2857143">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <folding>
+            <element signature="e#478#557#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task4/Q1_P49.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.8992805">
+          <caret line="44" column="10" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task4/Q3_B_P51.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5926829">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task4/Q3_A_P51.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task4/Q11_P47.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task4/Q10_P47.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task4/Q9_P47.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2195122">
+          <caret line="5" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task4/Q7_B_P45.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task4/Q5_P51.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="73" column="1" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
+          <folding>
+            <element signature="e#94#113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task4/Q4_P51.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="3" />
+          <folding>
+            <element signature="e#89#108#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task4/Q8_P53.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.717608">
+          <caret line="73" column="1" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
           <folding />
         </state>
       </provider>
