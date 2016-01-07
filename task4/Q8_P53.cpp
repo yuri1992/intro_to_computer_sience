@@ -8,7 +8,7 @@
 using namespace std;
 
 int *notIn(int arr[], int aLen, int indices[], int indLen) {
-    //TODO: complixtey is to high, should be log(n) or O(n)
+    
     if (indLen == aLen)
         return NULL;
     bool isFound = false;
