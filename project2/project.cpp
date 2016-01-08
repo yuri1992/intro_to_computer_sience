@@ -366,14 +366,16 @@ void partition(int data[], int size) {
      * partition - sort array
      * @int data[] - array
      * @size - array size
-     *
+     * sorting array by partition, taking the data[0] and sorting all numbers below and under him
      */
     int valInd = 0;
     int i, z = 0;
     bool swapped;
     for (i = 1; i < size; i++) {
+        // Determine if data[0] is less then data[i]
         if (data[valInd] < data[i])
             swapped = false;
+        // Searching from end for number that less then data[i]
         for (z = size - 1; z >= i; z--) {
             if (data[z] < data[valInd]) {
                 swap(data[i], data[z]);
@@ -381,14 +383,20 @@ void partition(int data[], int size) {
                 break;
             }
         }
+        // Checking no swap was needed, if true the array is sorted as we want.
         if (!swapped)
             break;
+        // data[0] bigger then data[i], swap them.
         swap(data[valInd], data[i]);
         valInd = i;
     }
 }
 
 double avgArr(int arr[], int size) {
+    /*
+     * @arr[] - array
+     * return average of the array
+     */
     int sum = arr[0];
     for (int i = 1; i < size; i++) {
         sum += arr[i];
@@ -397,15 +405,25 @@ double avgArr(int arr[], int size) {
 }
 
 int getMed(int sortedData[], int size) {
+    /*
+     * sortedData - sorted array
+     * getMed return the median of sorted array with known size
+     */
     return size % 2 == 1 ? sortedData[size / 2] : sortedData[size / 2 - 1];
 }
 
 void findAvgAndMedian(int sortedData[], int size, double &avg, int &median) {
+    /*
+     * calculate median and avrage is sorreted array
+     */
     avg = avgArr(sortedData, size);
     median = getMed(sortedData, size);
 }
 
 double findAvgInTwoArr(int sortedData1[], int sortedData2[], int size) {
+    /*
+     * return the average of two sorted arrays
+     */
     double avg1, avg2;
     int dummy;
     findAvgAndMedian(sortedData1, size, avg1, dummy);
@@ -414,6 +432,20 @@ double findAvgInTwoArr(int sortedData1[], int sortedData2[], int size) {
 }
 
 int getMedianBinary(int sortedArr1[], int sortedArr2[], int size) {
+    /*
+     * @sortedArr1 - sorted array
+     * @sortedArr2 - sorted array
+     * Implementation of binary search to find median number in two sorted arrays
+     * the algorithm works as follow
+     * 1.calculating the median of the two arrays
+     * 2.if median sortedData1 > median sortedData2
+     *      search sortedArr1[size/2] till m1 position
+     *      or search sortedArr2[size/2] till m2 position
+     *   else
+     *      from m1 position to last sortedArr1 or
+     *      from first sortedArr2 to position of m2
+     * 3. stop condition is when sortedArr1,sortedArr2 in size of 2
+     */
     int med1, med2;
 
     if (size <= 0)
@@ -421,6 +453,7 @@ int getMedianBinary(int sortedArr1[], int sortedArr2[], int size) {
     if (size == 1) {
         return sortedArr1[0];
     }
+
     if (size == 2) {
         if (sortedArr1[1] < sortedArr2[0] and sortedArr1[0] < sortedArr2[0])
             return sortedArr1[1];
@@ -431,6 +464,7 @@ int getMedianBinary(int sortedArr1[], int sortedArr2[], int size) {
         else
             return sortedArr2[1];
     }
+
     med1 = getMed(sortedArr1, size);
     med2 = getMed(sortedArr2, size);
 
