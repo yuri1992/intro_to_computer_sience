@@ -29,8 +29,6 @@ int possibleRoutes(int x, int y) {
 
     if (x > 0 && y == 0)
         return possibleRoutes(x - 1, y);
-
-
 }
 
 int main() {

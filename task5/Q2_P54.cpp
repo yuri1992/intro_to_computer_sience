@@ -1,6 +1,6 @@
 /*
  * Yuri Ritvin
- * Question 12 section A Page 48
+ * Question 2 section A Page 54
  */
 
 #include <iostream>
@@ -16,6 +16,12 @@ struct appear {
 typedef struct appear APPEAR;
 
 void appearances(char *str, APPEAR appear_arr[], int &n) {
+    /*
+     * appearances
+     * @*str - char array
+     * @appear_list[] - list of appear struct
+     * @&n - reference to n
+     */
     if (str[0] != '\0') {
         bool isFound = false;
         for(int i=0; i< n;i++) {

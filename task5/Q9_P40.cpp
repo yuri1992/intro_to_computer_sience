@@ -11,14 +11,9 @@ using namespace std;
 
 void find2Factor(int num, int &k, int &m) {
     /*
-     * 2^k * m  2 -> k=0,m=1
-     *          3 -> k=0,m=3
-     *          4 -> K=2,m=1
-     *          5 -> k=0,m=5
-     *          6 -> k=1,m=3
-     *          10 -> k=1,m=5
-     *          20 -> k=2,m=4
-     *          18 -> k=1,m=9
+     * find2Factor
+     *  solving the formula 2^k*m with recursion
+     *  @num = 2^k*m = num
      */
     if (num % 2 == 1) {
         k = 0;

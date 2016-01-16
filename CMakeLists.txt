@@ -3,6 +3,7 @@ project(intro_to_computer_sience)
 
 include_directories("${YOUR_DIRECTORY} task3")
 include_directories("${YOUR_DIRECTORY} project2")
+include_directories("${YOUR_DIRECTORY} project3")
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
 set(SOURCE_FILES main.cpp)
